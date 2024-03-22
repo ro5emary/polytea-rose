@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-ibc/ibc-app-solidity-template.git"
+    "url": "https://github.com/ro5emary/polytea-rose"
   },
   "keywords": [
     "IBC",
@@ -17,9 +17,9 @@
   "author": "Polymer Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/open-ibc/ibc-app-solidity-template/issues"
+    "url": "https://github.com/ro5emary/polytea-rose/issues"
   },
-  "homepage": "https://github.com/open-ibc/ibc-app-solidity-template#readme",
+  "homepage": "https://github.com/ro5emary/polytea-rose#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
